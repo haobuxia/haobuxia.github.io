@@ -5,10 +5,10 @@ baseurl:
 #url: http://github.com/lihuimintu/lihuimintu.github.io
 date_format: "ordinal"
 title: haobuxia
-subtitle: "Simple maybe, but not easy"
-description: "Simple maybe, but not easy"
+subtitle: "You are who you are"
+description: "You are who you are"
 keywords: Algorithm,Machine Learning(eg.Deep Learning),Data mining
-timezone: Asia/Beijing
+timezone: Asia/ShiJinaZhuang
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -20,7 +20,7 @@ author: Lary
 #organization_url: http://organization_url.githbu.io
 github_username: haobuxia
 location: CN
-email: haobuxia@gmail.com
+email: 1011506289@qq.com
 
 # ---------------- #
 #    Navigation    #
